@@ -1,0 +1,11 @@
+{
+  "name": "Drum Kit",
+  "repo": "https://github.com/cekstedt/LAB-Drum-Kit",
+  "challenger": "London App Brewery",
+  "challenge page": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12383928",
+  "hosted": "https://storied-churros-50a5f4.netlify.app/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "css", "javascript"]
+}
